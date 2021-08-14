@@ -12,7 +12,7 @@ const mix = require('laravel-mix');
  */
 
 mix.styles(
-    ['node_modules/startbootstrap-sb-admin-2/css/sb-admin-2'], 
+    ['node_modules/startbootstrap-sb-admin-2/css/sb-admin-2.css'], 
     'public/assets/sbadmin2/css/sbadmin2.css'
 );
 

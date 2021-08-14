@@ -14,5 +14,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $title = "SB Admin 2";
+    return view('blank', ['title' => $title]);
+});
+
+Route::get('/404', function () {
+    $title = "404";
+    return view('404', ['title' => $title]);
+});
+
+Route::get('/blank', function () {
+    $title = "Blank";
+    return view('blank', ['title' => $title]);
 });
