@@ -14,11 +14,19 @@
 This repository just make easy for new project Laravel and integrated with SB Admin 2. Just Clone this repository.
 
 ## Installation
-
 ```
 git clone https://github.com/awanz/laravel-sbadmin2
+```
+
+```
 composer update
+```
+
+```
 npm update
+```
+
+```
 npm run dev
 ```
 
