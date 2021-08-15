@@ -1,4 +1,4 @@
-# Laravel - SB Admin 2 by Awan
+# Laravel Framework 8.54.0 - SB Admin 2 by Awan
 
 [![GitHub forks](https://img.shields.io/github/forks/awanz/laravel-sbadmin2)](https://github.com/awanz/laravel-sbadmin2/network)
 [![GitHub stars](https://img.shields.io/github/stars/awanz/laravel-sbadmin2)](https://github.com/awanz/laravel-sbadmin2/stargazers)
@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/awanz?style=social)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/awangram)  
 
-## About of Laravel - SB Admin 2 
+## About of Framework 8.54.0 - SB Admin 2 by Awan
 
 This repository just make easy for new project Laravel and integrated with SB Admin 2. Just Clone this repository.
 

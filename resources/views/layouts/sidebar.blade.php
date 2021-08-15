@@ -53,9 +53,9 @@
             data-parent="#accordionSidebar">
             <div class="bg-white py-2 collapse-inner rounded">
                 <h6 class="collapse-header">Custom Utilities:</h6>
-                <a class="collapse-item" href="{{ url('/utilities/colors') }}">Colors</a>
-                <a class="collapse-item" href="{{ url('/utilities/borders') }}">Borders</a>
-                <a class="collapse-item" href="{{ url('/utilities/animations') }}">Animations</a>
+                <a class="collapse-item" href="{{ url('/utilities/color') }}">Colors</a>
+                <a class="collapse-item" href="{{ url('/utilities/border') }}">Borders</a>
+                <a class="collapse-item" href="{{ url('/utilities/animation') }}">Animations</a>
                 <a class="collapse-item" href="{{ url('/utilities/other') }}">Other</a>
             </div>
         </div>

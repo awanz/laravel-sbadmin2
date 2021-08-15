@@ -7,3 +7,4 @@
 
 <!-- Custom scripts for all pages-->
 <script src="{{ asset('assets/sbadmin2/js/sbadmin2.js') }}"></script>
+@yield('foot')

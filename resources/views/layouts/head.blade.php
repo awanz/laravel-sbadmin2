@@ -7,7 +7,7 @@
 <meta name="author" content="">
 
 <!-- Title   -->
-<title>SB Admin 2 - Blank</title>
+<title>{{ $title }}</title>
 
 <!-- Custom fonts for this template-->
 <link href="{{ asset('assets/sbadmin2/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
